@@ -18,4 +18,4 @@ def Build_agent():
 
 agent=Build_agent()
 
-agent.print_response("Is it safe to travel UAE today?")
+agent.print_response("Is UAE safe for tourists?")
